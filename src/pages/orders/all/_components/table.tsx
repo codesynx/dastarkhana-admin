@@ -280,7 +280,7 @@ export default function OrdersTable({ orders }: Props) {
                                                                         </p>
                                                                         <div className="flex justify-between items-center mt-auto">
                                                                             <span className="text-sm font-semibold text-gray-700">
-                                                                                $
+                                                                                ₸
                                                                                 {
                                                                                     item
                                                                                         .product
